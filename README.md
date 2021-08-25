@@ -1,2 +1,2 @@
 # NER-Application
-Custom trained NER model for Michelin
+Custom trained NER test model for Michelin
